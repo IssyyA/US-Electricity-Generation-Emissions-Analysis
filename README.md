@@ -11,7 +11,7 @@ Insights and recommendations are provided on the following key areas:
 
 The dataset was modeled and analyzed using Power Query and DAX in Power BI to create a user-friendly and insightful dashboard.
 
-[📊 Power BI Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiZjViYjA0YTUtOTA1Yi00ODU3LTgwN2ItNWQyZWMwYTVjNDAzIiwidCI6IjM0YzAxYWRhLTc5MDItNGQ2My04MjgyLThkYzRiZjhmNTUxZCJ9)e)
+[📊 Power BI Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiZjViYjA0YTUtOTA1Yi00ODU3LTgwN2ItNWQyZWMwYTVjNDAzIiwidCI6IjM0YzAxYWRhLTc5MDItNGQ2My04MjgyLThkYzRiZjhmNTUxZCJ9)
 
 ## Dataset Description
 

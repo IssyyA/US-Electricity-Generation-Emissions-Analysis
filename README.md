@@ -77,5 +77,3 @@ Between 2001 and 2023, the United States saw a steady increase in total electric
 *   The dataset provided is accurate and complete for the period of 2001-2023.
 *   The classification of energy sources into "Renewable" and "Non-Renewable" categories is consistent and accurate.
 *   The `CO2 Emissions` DAX measure uses a standard and accepted methodology for its calculation based on the generation data.
-
-loring these dynamics at both national and state levels.
